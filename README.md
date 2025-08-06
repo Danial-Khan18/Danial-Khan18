@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Danial-Khan18
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in building a E-commerce website.
+- 🌱 I’m currently working on python and JavaScript.
 - 💞️ I’m looking to collaborate on various Python Projects.
-- 📫 How to reach me ...
+- 📫 Reach me at khandanial222@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
