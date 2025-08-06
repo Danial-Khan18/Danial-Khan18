@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Danial-Khan18
+- 👋 Hi, I’m Danial Khan.
 - 👀 I’m interested in building a E-commerce website.
 - 🌱 I’m currently working on python and JavaScript.
 - 💞️ I’m looking to collaborate on various Python Projects.
